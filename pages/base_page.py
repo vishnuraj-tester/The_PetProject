@@ -39,3 +39,7 @@ class BasePage:
     def select_dropdown_by_visible_text(self, locator, text):
         dropdown = self.wait.until(EC.presence_of_element_located(locator))
         Select(dropdown).select_by_visible_text(text)
+
+    def scroll_down(self,locator):
+        element=self.find_element(locator)
+        self.driver.execute_script("arguments[0].scrollIntoView(true)", element)

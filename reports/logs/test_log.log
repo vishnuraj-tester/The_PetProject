@@ -100,3 +100,161 @@
 2026-03-02 14:46:29,704 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
 2026-03-02 14:46:29,769 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
 2026-03-02 14:46:29,770 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:40:09,357 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:40:09,359 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:40:12,380 - DogPage - [INFO] - Puppy link: ('partial link text', 'Puppy (0 to 3 Months)')
+2026-03-02 15:40:12,842 - DogPage - [INFO] - Clicking element: ('partial link text', 'Puppy (0 to 3 Months)')
+2026-03-02 15:40:19,813 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:40:19,814 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:40:22,676 - DogPage - [INFO] - Puppy link: ('partial link text', 'Puppy (0 to 3 Months)')
+2026-03-02 15:40:23,027 - DogPage - [INFO] - Clicking element: ('partial link text', 'Puppy (0 to 3 Months)')
+2026-03-02 15:40:59,944 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:40:59,945 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:41:04,640 - DogPage - [INFO] - Puppy link: ('partial link text', 'Puppy (0 to 3 Months)')
+2026-03-02 15:41:05,693 - DogPage - [INFO] - Clicking element: ('partial link text', 'Puppy (0 to 3 Months)')
+2026-03-02 15:43:04,460 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:43:04,460 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:43:20,115 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 15:43:20,116 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 15:43:27,905 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:43:27,907 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:43:30,796 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 15:43:30,796 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 15:43:42,144 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:43:42,145 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:43:44,753 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 15:43:44,753 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 15:44:10,961 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:44:10,961 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:44:13,524 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 15:44:13,524 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 15:44:25,532 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:44:25,532 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:44:28,074 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 15:44:28,074 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 15:44:43,452 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:44:43,453 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:44:46,632 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 15:44:46,632 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:30:31,288 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:30:31,290 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:30:34,261 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:30:34,261 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:30:45,778 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:30:45,778 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:30:48,256 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:30:48,257 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:31:03,766 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:31:03,766 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:31:07,809 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:31:07,809 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:31:19,896 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:31:19,896 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:31:22,335 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:31:22,335 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:31:24,727 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:31:24,727 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:31:30,880 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:31:30,880 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:31:33,408 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:31:33,409 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:31:35,908 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:31:35,908 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:31:36,320 - DogPage - [INFO] - Select dog-puppy filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:31:36,320 - DogPage - [INFO] - Clicking element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:31:46,966 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:31:46,966 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:31:50,482 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:31:50,483 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:31:53,946 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:31:53,947 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:31:54,763 - DogPage - [INFO] - Select dog-puppy filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:31:54,763 - DogPage - [INFO] - Clicking element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:31:54,984 - DogPage - [INFO] - Clicking element: ('partial link text', 'Pedigree Biscrok Milk & Chicken Biscuit')
+2026-03-02 16:32:02,342 - DogPage - [INFO] - Clicking element: ('css selector', 'button[name="add"]')
+2026-03-02 16:36:46,773 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:36:46,774 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:36:49,632 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:36:49,633 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:36:56,698 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:36:56,699 - DogPage - [INFO] - Finding element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:36:56,732 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:37:01,898 - DogPage - [INFO] - Select dog-puppy filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:37:01,898 - DogPage - [INFO] - Finding element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:37:01,940 - DogPage - [INFO] - Clicking element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:37:07,540 - DogPage - [INFO] - Clicking element: ('partial link text', 'Pedigree Biscrok Milk & Chicken Biscuit')
+2026-03-02 16:37:13,516 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:37:13,516 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:37:16,861 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:37:16,862 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:37:25,399 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:37:25,400 - DogPage - [INFO] - Finding element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:37:25,459 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:37:36,599 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:37:36,600 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:37:42,462 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:37:42,462 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:37:52,108 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:37:52,108 - DogPage - [INFO] - Finding element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:37:52,121 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:37:57,308 - DogPage - [INFO] - Select dog-puppy filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:37:57,309 - DogPage - [INFO] - Finding element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:37:57,334 - DogPage - [INFO] - Clicking element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:38:02,433 - DogPage - [INFO] - Clicking element: ('partial link text', 'Pedigree Biscrok Milk & Chicken Biscuit')
+2026-03-02 16:38:09,450 - DogPage - [INFO] - Clicking element: ('css selector', 'button[name="add"]')
+2026-03-02 16:38:40,268 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:38:40,269 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:38:42,750 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:38:42,750 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:38:49,672 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:38:49,673 - DogPage - [INFO] - Finding element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:38:49,729 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:38:54,893 - DogPage - [INFO] - Select dog-puppy filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:38:54,894 - DogPage - [INFO] - Finding element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:38:54,918 - DogPage - [INFO] - Clicking element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:39:00,469 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:39:00,470 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:39:02,783 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:39:02,783 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:39:09,760 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:39:09,760 - DogPage - [INFO] - Finding element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:39:09,818 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:39:21,576 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:39:21,577 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:39:25,511 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:39:25,512 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:39:33,332 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:39:33,332 - DogPage - [INFO] - Finding element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:39:33,361 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:39:38,534 - DogPage - [INFO] - Select dog-puppy filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:39:38,535 - DogPage - [INFO] - Finding element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:39:38,546 - DogPage - [INFO] - Clicking element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:39:43,650 - DogPage - [INFO] - Finding element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:39:43,665 - DogPage - [INFO] - Clicking element: ('partial link text', 'Pedigree Biscrok Milk & Chicken Biscuit')
+2026-03-02 16:39:50,678 - DogPage - [INFO] - Clicking element: ('css selector', 'button[name="add"]')
+2026-03-02 16:41:14,429 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:41:14,430 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:41:17,715 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:41:17,716 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:41:20,570 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:41:20,570 - DogPage - [INFO] - Finding element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:41:20,659 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:41:26,052 - DogPage - [INFO] - Select dog-puppy filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:41:26,053 - DogPage - [INFO] - Finding element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:41:26,078 - DogPage - [INFO] - Clicking element: ('xpath', "//span[text()='Adult / Puppy']")
+2026-03-02 16:41:31,249 - DogPage - [INFO] - Finding element: ('partial link text', 'Pedigree Biscrok Milk & Chicken Biscuit')
+2026-03-02 16:41:31,293 - DogPage - [INFO] - Clicking element: ('partial link text', 'Pedigree Biscrok Milk & Chicken Biscuit')
+2026-03-02 16:41:46,240 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:41:46,241 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:41:49,088 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:41:49,089 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:41:50,895 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:41:50,895 - DogPage - [INFO] - Finding element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:41:51,179 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:42:03,058 - DogPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:42:03,059 - DogPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:42:05,866 - DogPage - [INFO] - Dog link: ('partial link text', 'Dogs')
+2026-03-02 16:42:05,866 - DogPage - [INFO] - Clicking element: ('partial link text', 'Dogs')
+2026-03-02 16:42:09,094 - DogPage - [INFO] - Select dog filter: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:42:09,095 - DogPage - [INFO] - Finding element: ('xpath', "(//span[text()='Dogs'])[4]")
+2026-03-02 16:42:09,232 - DogPage - [INFO] - Clicking element: ('xpath', "(//span[text()='Dogs'])[4]")
