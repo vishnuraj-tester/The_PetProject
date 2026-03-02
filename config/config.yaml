@@ -9,3 +9,7 @@ environments:
     email: "vishnu@gmail.com"
     password: "Vishnu@123"
 
+dogs:
+   DOGS_URL: "/collections/dog"
+   DOG_GROOMING_URL: "/collections/dog-grooming"
+

@@ -1,0 +1,11 @@
+[32mINFO    [0m LoginPage:login_page.py:15 Opening login page: https://thepetproject.com/
+[32mINFO    [0m LoginPage:base_page.py:15 Opening URL: https://thepetproject.com/
+[32mINFO    [0m LoginPage:base_page.py:24 Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+[32mINFO    [0m LoginPage:login_page.py:21 Entering email: vishnu@gmail.com
+[32mINFO    [0m LoginPage:base_page.py:28 Typing into element: vishnu@gmail.com
+[32mINFO    [0m LoginPage:base_page.py:20 Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+[32mINFO    [0m LoginPage:login_page.py:25 Entering password: Vishnu@123
+[32mINFO    [0m LoginPage:base_page.py:28 Typing into element: Vishnu@123
+[32mINFO    [0m LoginPage:base_page.py:20 Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+[32mINFO    [0m LoginPage:login_page.py:29 Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+[32mINFO    [0m LoginPage:base_page.py:24 Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")

@@ -1,0 +1,11 @@
+2026-03-02 16:36:50,068 - LoginPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 16:36:50,070 - LoginPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 16:37:06,074 - LoginPage - [INFO] - Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+2026-03-02 16:37:10,015 - LoginPage - [INFO] - Entering email: vishnu@gmail.com
+2026-03-02 16:37:10,015 - LoginPage - [INFO] - Typing into element: vishnu@gmail.com
+2026-03-02 16:37:10,016 - LoginPage - [INFO] - Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+2026-03-02 16:37:10,570 - LoginPage - [INFO] - Entering password: Vishnu@123
+2026-03-02 16:37:10,571 - LoginPage - [INFO] - Typing into element: Vishnu@123
+2026-03-02 16:37:10,572 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+2026-03-02 16:37:11,105 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 16:37:11,105 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")

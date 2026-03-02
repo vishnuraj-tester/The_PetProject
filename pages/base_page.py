@@ -9,6 +9,7 @@ class BasePage:
         self.driver = driver
         self.wait = WebDriverWait(driver, 10)
         self.logger = get_logger(self.__class__.__name__)
+
     #action methods
     def get_url(self,url):
         self.logger.info(f"Opening URL: {url}")
@@ -39,3 +40,6 @@ class BasePage:
     def select_dropdown_by_visible_text(self, locator, text):
         dropdown = self.wait.until(EC.presence_of_element_located(locator))
         Select(dropdown).select_by_visible_text(text)
+
+    def get_title(self):
+        return self.driver.title
