@@ -34,4 +34,9 @@ class LoginPage(BasePage):
         self.enter_password(password)
         self.click_sign_in_button()
 
+    def is_login_successful(self):
+        return "account" in self.driver.current_url
+
+
+
 

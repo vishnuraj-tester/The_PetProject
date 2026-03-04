@@ -100,3 +100,102 @@
 2026-03-02 14:46:29,704 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
 2026-03-02 14:46:29,769 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
 2026-03-02 14:46:29,770 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:33:46,075 - LoginPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:33:46,076 - LoginPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:33:54,354 - LoginPage - [INFO] - Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+2026-03-02 15:33:56,682 - LoginPage - [INFO] - Entering email: vishnu@gmail.com
+2026-03-02 15:33:56,683 - LoginPage - [INFO] - Typing into element: vishnu@gmail.com
+2026-03-02 15:33:56,683 - LoginPage - [INFO] - Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+2026-03-02 15:33:56,845 - LoginPage - [INFO] - Entering password: Vishnu@123
+2026-03-02 15:33:56,846 - LoginPage - [INFO] - Typing into element: Vishnu@123
+2026-03-02 15:33:56,846 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+2026-03-02 15:33:57,107 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:33:57,107 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:34:04,481 - LoginPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:34:04,482 - LoginPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:34:12,772 - LoginPage - [INFO] - Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+2026-03-02 15:34:14,378 - LoginPage - [INFO] - Entering email: vishnu@gmail.com
+2026-03-02 15:34:14,379 - LoginPage - [INFO] - Typing into element: vishnu@gmail.com
+2026-03-02 15:34:14,379 - LoginPage - [INFO] - Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+2026-03-02 15:34:14,665 - LoginPage - [INFO] - Entering password: Vishnu@123
+2026-03-02 15:34:14,665 - LoginPage - [INFO] - Typing into element: Vishnu@123
+2026-03-02 15:34:14,665 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+2026-03-02 15:34:14,904 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:34:14,904 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:34:25,735 - LoginPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:34:25,735 - LoginPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:34:33,150 - LoginPage - [INFO] - Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+2026-03-02 15:34:34,967 - LoginPage - [INFO] - Entering email: vishnu@gmail.com
+2026-03-02 15:34:34,968 - LoginPage - [INFO] - Typing into element: vishnu@gmail.com
+2026-03-02 15:34:34,968 - LoginPage - [INFO] - Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+2026-03-02 15:34:35,023 - LoginPage - [INFO] - Entering password: Vishnu@123
+2026-03-02 15:34:35,023 - LoginPage - [INFO] - Typing into element: Vishnu@123
+2026-03-02 15:34:35,023 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+2026-03-02 15:34:35,071 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:34:35,071 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:36:22,134 - LoginPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:36:22,135 - LoginPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:36:32,546 - LoginPage - [INFO] - Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+2026-03-02 15:36:35,006 - LoginPage - [INFO] - Entering email: vishnu@gmail.com
+2026-03-02 15:36:35,006 - LoginPage - [INFO] - Typing into element: vishnu@gmail.com
+2026-03-02 15:36:35,006 - LoginPage - [INFO] - Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+2026-03-02 15:36:35,235 - LoginPage - [INFO] - Entering password: Vishnu@123
+2026-03-02 15:36:35,235 - LoginPage - [INFO] - Typing into element: Vishnu@123
+2026-03-02 15:36:35,235 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+2026-03-02 15:36:35,355 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:36:35,355 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:36:38,964 - LoginPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:36:38,964 - LoginPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:36:49,649 - LoginPage - [INFO] - Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+2026-03-02 15:36:52,200 - LoginPage - [INFO] - Entering email: vishnu@gmail.com
+2026-03-02 15:36:52,202 - LoginPage - [INFO] - Typing into element: vishnu@gmail.com
+2026-03-02 15:36:52,203 - LoginPage - [INFO] - Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+2026-03-02 15:36:52,360 - LoginPage - [INFO] - Entering password: Vishnu@123
+2026-03-02 15:36:52,361 - LoginPage - [INFO] - Typing into element: Vishnu@123
+2026-03-02 15:36:52,361 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+2026-03-02 15:36:52,533 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:36:52,533 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:37:02,378 - LoginPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-02 15:37:02,379 - LoginPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-02 15:37:10,297 - LoginPage - [INFO] - Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+2026-03-02 15:37:12,502 - LoginPage - [INFO] - Entering email: vishnu@gmail.com
+2026-03-02 15:37:12,503 - LoginPage - [INFO] - Typing into element: vishnu@gmail.com
+2026-03-02 15:37:12,503 - LoginPage - [INFO] - Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+2026-03-02 15:37:12,552 - LoginPage - [INFO] - Entering password: Vishnu@123
+2026-03-02 15:37:12,552 - LoginPage - [INFO] - Typing into element: Vishnu@123
+2026-03-02 15:37:12,552 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+2026-03-02 15:37:12,622 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-02 15:37:12,623 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-04 11:05:11,241 - LoginPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-04 11:05:11,242 - LoginPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-04 11:05:20,644 - LoginPage - [INFO] - Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+2026-03-04 11:05:25,853 - LoginPage - [INFO] - Entering email: vishnu@gmail.com
+2026-03-04 11:05:25,853 - LoginPage - [INFO] - Typing into element: vishnu@gmail.com
+2026-03-04 11:05:25,854 - LoginPage - [INFO] - Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+2026-03-04 11:05:26,122 - LoginPage - [INFO] - Entering password: Vishnu@123
+2026-03-04 11:05:26,123 - LoginPage - [INFO] - Typing into element: Vishnu@123
+2026-03-04 11:05:26,123 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+2026-03-04 11:05:26,407 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-04 11:05:26,407 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-04 11:05:30,747 - LoginPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-04 11:05:30,748 - LoginPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-04 11:05:43,580 - LoginPage - [INFO] - Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+2026-03-04 11:05:46,408 - LoginPage - [INFO] - Entering email: vishnu@gmail.com
+2026-03-04 11:05:46,408 - LoginPage - [INFO] - Typing into element: vishnu@gmail.com
+2026-03-04 11:05:46,408 - LoginPage - [INFO] - Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+2026-03-04 11:05:46,638 - LoginPage - [INFO] - Entering password: Vishnu@123
+2026-03-04 11:05:46,639 - LoginPage - [INFO] - Typing into element: Vishnu@123
+2026-03-04 11:05:46,639 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+2026-03-04 11:05:46,934 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-04 11:05:46,935 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-04 11:05:58,137 - LoginPage - [INFO] - Opening login page: https://thepetproject.com/
+2026-03-04 11:05:58,138 - LoginPage - [INFO] - Opening URL: https://thepetproject.com/
+2026-03-04 11:06:07,980 - LoginPage - [INFO] - Clicking element: ('xpath', "(//a[contains(@href,'/account')])[3]")
+2026-03-04 11:06:09,983 - LoginPage - [INFO] - Entering email: vishnu@gmail.com
+2026-03-04 11:06:09,984 - LoginPage - [INFO] - Typing into element: vishnu@gmail.com
+2026-03-04 11:06:09,985 - LoginPage - [INFO] - Finding element: ('xpath', "(//input[@placeholder='Email' and @type='email'])[2]")
+2026-03-04 11:06:10,071 - LoginPage - [INFO] - Entering password: Vishnu@123
+2026-03-04 11:06:10,071 - LoginPage - [INFO] - Typing into element: Vishnu@123
+2026-03-04 11:06:10,072 - LoginPage - [INFO] - Finding element: ('xpath', "//input[@type='password' and @name='customer[password]']")
+2026-03-04 11:06:10,100 - LoginPage - [INFO] - Clicking sign in button: ('xpath', "//button[contains(text(), 'Sign In')]")
+2026-03-04 11:06:10,101 - LoginPage - [INFO] - Clicking element: ('xpath', "//button[contains(text(), 'Sign In')]")

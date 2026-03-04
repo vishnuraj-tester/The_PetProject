@@ -14,3 +14,5 @@ def test_login(cross_browser_driver):
     with allure.step("Open the login page"):
         login_page.open_login_page(base_url)
         login_page.login(email, password)
+        assert login_page.is_login_successful()
+
