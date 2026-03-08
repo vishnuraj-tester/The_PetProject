@@ -1,0 +1,11 @@
+environments:
+  QA:
+
+    base_url: "https://thepetproject.com/"
+    browser:
+      - chrome
+      - edge
+      - firefox
+    email: "vishnu@gmail.com"
+    password: "Vishnu@123"
+
