@@ -50,18 +50,46 @@ def pytest_runtest_makereport(item,call):
                 attachment_type = allure.attachment_type.PNG,
             )
 
+
+
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options as ChromeOptions
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
+from selenium.webdriver.edge.options import Options as EdgeOptions
+
+
 @pytest.fixture(params=ConfigReader.read_config()["environments"]["QA"]["browser"])
 def cross_browser_driver(request):
     browser = request.param
 
+
+    headless_mode = True
+
     if browser == "chrome":
-        driver = webdriver.Chrome()
+        options = ChromeOptions()
+        if headless_mode:
+            options.add_argument("--headless=new")  # Recommended for newer Chrome versions
+            options.add_argument("--window-size=1920,1080")
+            options.add_argument("--disable-gpu")
+            options.add_argument("--no-sandbox")
+            options.add_argument("--disable-dev-shm-usage")
+        driver = webdriver.Chrome(options=options)
+
     elif browser == "firefox":
-        driver = webdriver.Firefox()
+        options = FirefoxOptions()
+        if headless_mode:
+            options.add_argument("--headless")
+            options.set_preference("window.width", 1920)
+            options.set_preference("window.height", 1080)
+        driver = webdriver.Firefox(options=options)
+
     elif browser == "edge":
-        driver = webdriver.Edge()
-    else:
-        raise Exception(f"Unsupported browser {browser}")
+        options = EdgeOptions()
+        if headless_mode:
+            options.add_argument("--headless")
+            options.add_argument("--window-size=1920,1080")
+            options.add_argument("--disable-gpu")
+        driver = webdriver.Edge(options=options)
 
     driver.maximize_window()
     yield driver

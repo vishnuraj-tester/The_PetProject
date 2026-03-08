@@ -4,6 +4,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from utilities.logger import get_logger
 class BasePage:
+
+    def js_click(self, locator):
+        element = self.wait.until(EC.presence_of_element_id(locator))
+        self.driver.execute_script("arguments[0].click();", element)
     #---initializer---
     def __init__(self, driver):
         self.driver = driver
