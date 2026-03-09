@@ -5,7 +5,8 @@ jobs:
     runs-on: ubuntu-latest  # Pre-installed browsers!
     strategy:
       matrix:
-        browser: [chrome, firefox, edge]
+        browser: [chrome, firefox, edge,safari,opera]
+        os : [windows-latest,ubuntu-latest,macos-latest]
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v5
