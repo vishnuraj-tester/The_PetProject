@@ -63,7 +63,7 @@ def cross_browser_driver(request):
     browser = request.param
 
 
-    headless_mode = True
+    headless_mode = False
 
     if browser == "chrome":
         options = ChromeOptions()

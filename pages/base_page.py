@@ -3,6 +3,7 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from utilities.logger import get_logger
+
 class BasePage:
 
     def js_click(self, locator):
@@ -11,7 +12,7 @@ class BasePage:
     #---initializer---
     def __init__(self, driver):
         self.driver = driver
-        self.wait = WebDriverWait(driver, 10)
+        self.wait = WebDriverWait(driver, 20)
         self.logger = get_logger(self.__class__.__name__)
     #action methods
     def get_url(self,url):
