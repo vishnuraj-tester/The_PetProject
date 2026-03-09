@@ -6,6 +6,7 @@ environments:
       - chrome
       - edge
       - firefox
+      - safari
     email: "vishnu@gmail.com"
     password: "Vishnu@123"
 
