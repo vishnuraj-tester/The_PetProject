@@ -67,6 +67,8 @@ def cross_browser_driver(request):
     browser = request.param
 
     headless_mode = True
+    if os.environ.get('BROWSER'): # for github actions
+        browser = os.environ.get('BROWSER')
 
     if browser == "chrome":
         options = ChromeOptions()
