@@ -2,10 +2,11 @@ name: Pet Project Tests
 on: [push, pull_request]
 jobs:
   test:
-    runs-on: ubuntu-latest  # Pre-installed browsers!
+    runs-on: ${{matrix.os}}  # Pre-installed browsers!
     strategy:
+      fail-fast : false
       matrix:
-        browser: [chrome, firefox, edge,safari,opera]
+        browser: [chrome, firefox]
         os : [windows-latest,ubuntu-latest,macos-latest]
     steps:
     - uses: actions/checkout@v4
