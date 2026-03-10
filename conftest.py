@@ -66,7 +66,7 @@ from webdriver_manager.opera import OperaDriverManager
 def cross_browser_driver(request):
     browser = request.param
 
-    headless_mode = False
+    headless_mode = True
     if os.environ.get('BROWSER'): # for github actions
         browser = os.environ.get('BROWSER')
 
@@ -96,22 +96,19 @@ def cross_browser_driver(request):
             options.add_argument("--disable-gpu")
         driver = webdriver.Edge(options=options)
 
-    elif browser == "safari":
-        options = SafariOptions()
-        # Note: Safari does not support headless mode [web:1][web:21]
-        driver = webdriver.Safari(options=options)
 
-    elif browser == "opera":
-        options = ChromeOptions()
-        if headless_mode:
-            options.add_argument("--headless=new")
-            options.add_argument("--window-size=1920,1080")
-            options.add_argument("--disable-gpu")
-            options.add_argument("--no-sandbox")
-            options.add_argument("--disable-dev-shm-usage")
-        service = ChromeService(OperaDriverManager().install())
-        driver = webdriver.Chrome(service=service, options=options)
 
+    # elif browser == "opera":
+    #     options = ChromeOptions()
+    #     if headless_mode:
+    #         options.add_argument("--headless=new")
+    #         options.add_argument("--window-size=1920,1080")
+    #         options.add_argument("--disable-gpu")
+    #         options.add_argument("--no-sandbox")
+    #         options.add_argument("--disable-dev-shm-usage")
+    #     service = ChromeService(OperaDriverManager().install())
+    #     driver = webdriver.Chrome(service=service, options=options)
+    #
     driver.maximize_window()
     yield driver
     driver.quit()
