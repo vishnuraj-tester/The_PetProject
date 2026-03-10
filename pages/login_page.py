@@ -7,8 +7,8 @@ class LoginPage(BasePage):
     EMAIL_TEXTFIELD = (By.XPATH, "(//input[@placeholder='Email' and @type='email'])[2]")
     PASSWORD_TEXTFIELD = (By.XPATH, "//input[@type='password' and @name='customer[password]']")
     SIGN_IN_BUTTON = (By.XPATH, "//button[contains(text(), 'Sign In')]")
-    # ACCOUNT_LINK = (By.XPATH, "(//span[contains(text(), 'Account')])[2]")
-    ACCOUNT_LINK = (By.XPATH, "(//a[contains(@href,'/account')])[3]")
+
+    ACCOUNT_LINK = (By.XPATH, "//*[@id='shopify-section-sections--18775426793516__header']/m-header/div[1]/header[2]/div[3]/div/div/div[2]/a[1]/span")
 
 
     def open_login_page(self, base_url):
